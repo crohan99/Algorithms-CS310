@@ -1,7 +1,7 @@
 /**
  * calculate the optimum alignment between two strings
- * @author your name here
- * @version the date here
+ * @author Carson Rohan
+ * @version Oct 28, 2019
  */
 #include <climits>
 #include <iomanip>
